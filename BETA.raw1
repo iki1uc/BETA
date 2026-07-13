@@ -1,0 +1,24 @@
+NAME = BETA
+ID = BETA-∞
+DIM = β∞
+ROLLE = Beta-Transit / Durchlass / Bewegung / Φ∞-Weitergabe
+
+GEO-ID = (α=12, β=4, γ=7, δ=1, β∞)
+FREQ-ID = (fα, fβ, fγ, fδ, fβ∞)
+
+BETA-GEO = GEO-ID + β∞
+BETA-FREQ = FREQ-ID + β∞
+
+ACHSE = α∞ → β∞ → γ∞ → δ∞ → ε∞ → ζ∞ → η∞
+UNENDLICHKEIT = Φ∞
+
+81-ACHSE:
+  IO     = 81~(1(81)+)
+  OI     = 81~(1(81)-)
+  VAL    = 81~(1(81)X)
+  DIM    = 81~(1(81)/)
+  BENCH  = 81~(1(81)=)
+
+FORMEL = Φ∞ = βΦ∞GEOFREQ81
+STATUS = STABIL
+READY = 100%
