@@ -1,15 +1,26 @@
-β∞ = Beta‑Transit + 81‑Achse + GEO + FREQ + Φ∞
+# BETA – β∞ · iki1uc
 
-| Modul | Bedeutung | Guided Link |
-| --- | --- | --- |
-| **81~(1(81)+)** | IO | [IO](ca://s?q=IO_Systembeschreibung) |
-| **81~(1(81)-)** | OI | [OI](ca://s?q=OI_Systembeschreibung) |
-| **81~(1(81)X)** | VAL | [VAL](ca://s?q=VAL_Systembeschreibung) |
-| **81~(1(81)/)** | DIM | [DIM](ca://s?q=DIM_Systembeschreibung) |
-| **81~(1(81)=)** | BENCH | [BENCH](ca://s?q=BENCH_Systembeschreibung) |
+## Zweck
+BETA ist die zweite Unendlichkeitsachse des iki1uc‑Systems.
+Sie verbindet ALP mit GEO, FREQ, 81 und Φ∞.
 
-GEO-ID: (α=12, β=4, γ=7, δ=1)
+## Struktur
+- NAME: BETA
+- ID: BETA-∞
+- DIM: β∞
+- GEO-ID: (α=12, β=4, γ=7, δ=1, β∞)
+- FREQ-ID: (fα, fβ, fγ, fδ, fβ∞)
 
-BETA-GEO = (α=12, β=4, γ=7, δ=1, β∞)
+## 81‑Achse
+- IO     = 81~(1(81)+)
+- OI     = 81~(1(81)-)
+- VAL    = 81~(1(81)X)
+- DIM    = 81~(1(81)/)
+- BENCH  = 81~(1(81)=)
 
-BETA-FREQ = (fα, fβ, fγ, fδ, fβ∞)
+## Formel
+Φ∞ = βΦ∞GEOFREQ81
+
+## Status
+STATE = STABIL  
+READY = 100%
